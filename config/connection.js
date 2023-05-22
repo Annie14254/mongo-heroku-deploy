@@ -11,3 +11,8 @@ connect(connectionString, {
 });
 
 module.exports = connection;
+
+// YPdyhGso079nasmV
+// password for mongo atlas
+
+//mongodb+srv://annieyashley:YPdyhGso079nasmV@cluster0.sofhrrn.mongodb.net/?retryWrites=true&w=majority
